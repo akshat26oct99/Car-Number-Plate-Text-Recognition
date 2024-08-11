@@ -1,4 +1,4 @@
-# Automatic License Plate Detection
+# Car Number Plate Text Recognition
 
 ## Introduction
 
